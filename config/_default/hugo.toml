@@ -1,0 +1,46 @@
+baseURL = 'https://YOUR_USERNAME.github.io/antiaging-knowledge-base/'
+title = '抗衰老科学前沿知识库'
+description = 'AI 驱动的抗衰老科学知识库，每日自动更新最新研究进展'
+languageCode = 'zh-CN'
+defaultContentLanguage = 'zh-cn'
+theme = 'hugo-blox'
+
+enableGitInfo = true
+summaryLength = 30
+
+[outputs]
+  home = ['HTML', 'RSS']
+
+[menu]
+  [[menu.main]]
+    name = '首页'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    name = '基础理论'
+    url = '/basics/'
+    weight = 20
+  [[menu.main]]
+    name = '干预方法'
+    url = '/interventions/'
+    weight = 30
+  [[menu.main]]
+    name = '研究前沿'
+    url = '/research/'
+    weight = 40
+  [[menu.main]]
+    name = '关于'
+    url = '/about/'
+    weight = 50
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+[params]
+  author = '抗衰小杨 · JVS Claw AI'
+  footer = '© 2026 抗衰老科学前沿知识库 | 由 JVS Claw AI 驱动'
