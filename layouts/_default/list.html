@@ -1,0 +1,13 @@
+{{ define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+<h2 style="margin-top: 30px;">📄 页面列表</h2>
+<ul>
+{{ range .Pages }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
+{{ end }}

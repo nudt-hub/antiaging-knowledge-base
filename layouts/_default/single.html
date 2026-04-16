@@ -1,0 +1,12 @@
+{{ define "title" }}{{ .Title }} - {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+<article>
+    <h1>{{ .Title }}</h1>
+    {{ if .Params.description }}
+    <p style="color: #718096; font-style: italic; margin-bottom: 20px;">{{ .Params.description }}</p>
+    {{ end }}
+    
+    {{ .Content }}
+</article>
+{{ end }}

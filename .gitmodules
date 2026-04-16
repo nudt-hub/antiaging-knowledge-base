@@ -1,9 +1,0 @@
-[submodule "themes/hugo-blox"]
-	path = themes/hugo-blox
-	url = https://github.com/HugoBlox/kit.git
-[submodule "themes/hugo-book"]
-	path = themes/hugo-book
-	url = https://github.com/alex-shpak/hugo-book.git
-[submodule "themes/hugo-geekdoc"]
-	path = themes/hugo-geekdoc
-	url = https://github.com/thegeeklab/hugo-geekdoc.git
