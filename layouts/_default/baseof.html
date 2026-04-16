@@ -47,11 +47,11 @@
     </header>
     
     <nav>
-        <a href="{{ "/" | relURL }}"{{ if .IsHome }} class="active"{{ end }}>🏠 首页</a>
-        <a href="{{ "/basics/" | relURL }}"{{ if eq .Title "基础理论：衰老的十二大标志物" }} class="active"{{ end }}>📖 基础理论</a>
-        <a href="{{ "/interventions/" | relURL }}"{{ if eq .Title "干预方法库" }} class="active"{{ end }}>💊 干预方法</a>
-        <a href="{{ "/research/" | relURL }}"{{ if eq .Title "研究前沿" }} class="active"{{ end }}>🔬 研究前沿</a>
-        <a href="{{ "/about/" | relURL }}"{{ if eq .Title "关于本站" }} class="active"{{ end }}>ℹ️ 关于</a>
+        <a href="{{ "" | relURL }}"{{ if .IsHome }} class="active"{{ end }}>🏠 首页</a>
+        <a href="{{ "basics/" | relURL }}"{{ if eq .Title "基础理论：衰老的十二大标志物" }} class="active"{{ end }}>📖 基础理论</a>
+        <a href="{{ "interventions/" | relURL }}"{{ if eq .Title "干预方法库" }} class="active"{{ end }}>💊 干预方法</a>
+        <a href="{{ "research/" | relURL }}"{{ if eq .Title "研究前沿" }} class="active"{{ end }}>🔬 研究前沿</a>
+        <a href="{{ "about/" | relURL }}"{{ if eq .Title "关于本站" }} class="active"{{ end }}>ℹ️ 关于</a>
     </nav>
     
     <main>

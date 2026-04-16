@@ -6,6 +6,8 @@ defaultContentLanguage = 'zh-cn'
 
 enableGitInfo = true
 summaryLength = 30
+relativeURLs = true
+canonifyURLs = true
 
 [markup]
   [markup.goldmark]
