@@ -135,12 +135,12 @@ NMN 是 NAD+ 的直接前体，通过 NAMPT 酶转化为 NAD+。NAD+ 是 Sirtuin
 **主要参考文献**：
 
 1. **NMN 相关研究**
-   - Irie J, et al. Effect of oral administration of nicotinamide mononucleotide on clinical parameters. *Endocr J*. 2020.
-   - Yoshino M, et al. Nicotinamide Mononucleotide Increases Muscle Insulin Sensitivity in Postmenopausal Women. *Science*. 2021.
+   - Irie J, et al. Effect of oral administration of nicotinamide mononucleotide on clinical parameters. *Endocr J*. 2020. PMID: [31685720](https://pubmed.ncbi.nlm.nih.gov/31685720/)
+   - Yoshino M, et al. Nicotinamide Mononucleotide Increases Muscle Insulin Sensitivity in Postmenopausal Women. *Science*. 2021. PMID: [33888596](https://pubmed.ncbi.nlm.nih.gov/33888596/)
    - Xie C, et al. Safety and efficacy of NMN supplementation in humans: A systematic review. *Front Nutr*. 2023.
 
 2. **白藜芦醇相关研究**
-   - Timmers S, et al. Calorie restriction-like effects of 30 days of resveratrol supplementation. *Cell Metab*. 2013.
+   - Timmers S, et al. Calorie restriction-like effects of 30 days of resveratrol supplementation. *Cell Metab*. 2011. PMID: [22055504](https://pubmed.ncbi.nlm.nih.gov/22055504/)
    - Rauf A, et al. Resveratrol and metabolic diseases: An updated review. *Phytother Res*. 2020.
    - Gohari S, et al. The effect of resveratrol on metabolic parameters: A meta-analysis. *Complement Ther Med*. 2022.
 
