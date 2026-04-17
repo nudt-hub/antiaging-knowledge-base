@@ -11,35 +11,13 @@
     
     {{ if .Site.Params.features.search }}
     <div class="search-box">
-        <input type="search" placeholder="🔍 搜索全站..." id="search-input" oninput="handleSearch()">
+        <input type="search" placeholder="🔍 搜索全站..." id="search-input">
         <button class="search-btn" onclick="triggerSearch()" title="搜索">🔍</button>
     </div>
     {{ end }}
 </nav>
 
 <script>
-let searchTimeout;
-
-function handleSearch() {
-    clearTimeout(searchTimeout);
-    const query = document.getElementById('search-input').value.trim();
-    
-    if (query.length < 2) {
-        // 不自动关闭，等待用户点击按钮
-        return;
-    }
-    
-    // 延迟 300ms 执行搜索，避免频繁计算
-    searchTimeout = setTimeout(() => {
-        if (typeof showModal === 'function') {
-            if (document.getElementById('search-modal').style.display !== 'flex') {
-                showModal();
-            }
-            displayResults(query);
-        }
-    }, 300);
-}
-
 function triggerSearch() {
     const query = document.getElementById('search-input').value.trim();
     if (query.length < 2) {
@@ -54,7 +32,15 @@ function triggerSearch() {
     }
 }
 
-function searchSite() {
-    handleSearch();
-}
+// 支持回车键触发搜索
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('search-input');
+    if (searchInput) {
+        searchInput.addEventListener('keypress', function(event) {
+            if (event.key === 'Enter') {
+                triggerSearch();
+            }
+        });
+    }
+});
 </script>
