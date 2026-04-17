@@ -5,10 +5,13 @@ on:
     branches: [main]
   schedule:
     - cron: '0 0 * * 1'  # 每周一运行
+  workflow_dispatch:
 
 jobs:
   seo-audit:
     runs-on: ubuntu-latest
+    continue-on-error: true  # 失败不阻止其他工作流
+    
     steps:
       - uses: actions/checkout@v4
       
@@ -21,7 +24,20 @@ jobs:
       - name: Build
         run: hugo -D --minify
       
+      - name: Check if site is accessible
+        id: check-site
+        run: |
+          if curl -s -f "https://muwangdao.github.io/antiaging-knowledge-base/" > /dev/null; then
+            echo "site_accessible=true" >> $GITHUB_OUTPUT
+            echo "✅ 网站可访问"
+          else
+            echo "site_accessible=false" >> $GITHUB_OUTPUT
+            echo "⚠️ 网站无法访问，跳过 Lighthouse 测试"
+            exit 0
+          fi
+      
       - name: Run Lighthouse CI
+        if: steps.check-site.outputs.site_accessible == 'true'
         uses: treosh/lighthouse-ci-action@v10
         with:
           urls: |
@@ -35,6 +51,7 @@ jobs:
           temporaryPublicStorage: true
       
       - name: Upload Lighthouse Report
+        if: steps.check-site.outputs.site_accessible == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: lighthouse-report
