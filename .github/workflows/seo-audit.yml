@@ -27,12 +27,14 @@ jobs:
       - name: Check if site is accessible
         id: check-site
         run: |
-          if curl -s -f "https://muwangdao.github.io/antiaging-knowledge-base/" > /dev/null; then
+          echo "检查网站是否可访问..."
+          if curl -s -f --max-time 10 "https://muwangdao.github.io/antiaging-knowledge-base/" > /dev/null 2>&1; then
             echo "site_accessible=true" >> $GITHUB_OUTPUT
             echo "✅ 网站可访问"
           else
             echo "site_accessible=false" >> $GITHUB_OUTPUT
-            echo "⚠️ 网站无法访问，跳过 Lighthouse 测试"
+            echo "⚠️ 网站无法访问（可能是 GitHub Pages 未部署成功）"
+            echo "跳过 Lighthouse 测试，但不报错"
             exit 0
           fi
       

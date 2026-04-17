@@ -4,8 +4,6 @@ description: "详解 2023 版《衰老的十二大标志物》"
 weight: 2
 ---
 
-# 衰老的十二大标志物（2023 版）
-
 > **来源**：López-Otín C, et al. "Hallmarks of aging: An expanding universe." *Cell*. 2023;186(2):243-278. doi:10.1016/j.cell.2022.11.001
 
 2023 年，López-Otín 团队在《Cell》杂志上更新了经典的衰老标志物框架，从 2013 年的 9 大标志物扩展为**12 大标志物**。
