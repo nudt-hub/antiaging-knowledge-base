@@ -12,34 +12,72 @@ draft: false
 
 ## 🛠️ 可用工具
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin: 40px 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 30px; margin: 40px 0;">
 
-### 🧬 PhenoAge 生物学年龄计算器
+<!-- PhenoAge 工具卡片 -->
+<div style="background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%); border-radius: 16px; padding: 30px; border: 2px solid #667eea; box-shadow: 0 4px 20px rgba(102, 126, 234, 0.15);">
 
-基于 Levine 算法，通过 9 项常规血检指标计算您的生物学年龄。
-
-- **评估内容**：生物学年龄、衰老速度、健康风险
-- **所需数据**：9 项常规血检指标（白蛋白、肌酐、葡萄糖等）
-- **检测成本**：低（常规体检即可）
-- **出结果时间**：即时计算
-
-<div style="margin-top: 15px;">
-<a href="/phenoage-calculator/" style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 25px; border-radius: 8px; text-decoration: none; font-weight: 500;">立即使用 →</a>
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="font-size: 32px; margin-right: 15px;">🧬</div>
+<h3 style="margin: 0; color: #2d3748; font-size: 22px;">PhenoAge 生物学年龄计算器</h3>
 </div>
 
----
+<p style="color: #718096; margin-bottom: 20px; line-height: 1.6;">基于 Levine 算法，通过 9 项常规血检指标计算您的生物学年龄。</p>
 
-### 🔬 HCATA 基因表达查询
+<div style="background: white; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">📋 评估内容</div>
+<div style="color: #718096; font-size: 14px;">生物学年龄、衰老速度、健康风险</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">📝 所需数据</div>
+<div style="color: #718096; font-size: 14px;">9 项常规血检指标（白蛋白、肌酐、葡萄糖等）</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">💰 检测成本</div>
+<div style="color: #718096; font-size: 14px;">低（常规体检即可）</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">⏱️ 出结果时间</div>
+<div style="color: #718096; font-size: 14px;">即时计算</div>
+</div>
+</div>
 
-人类细胞衰老转录组图谱，查询基因在不同年龄段的表达趋势。
+<a href="/phenoage-calculator/" style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 14px 30px; border-radius: 10px; text-decoration: none; font-weight: 600; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4); transition: all 0.3s;">立即使用 →</a>
 
-- **评估内容**：基因表达随年龄变化、差异表达分析、通路富集
-- **数据来源**：76 项研究 · 9200 万单细胞 · 50+ 组织类型
-- **适用人群**：研究人员、临床医生、生物信息学爱好者
-- **出结果时间**：实时查询
+</div>
 
-<div style="margin-top: 15px;">
-<a href="#hcata-section" style="display: inline-block; background: linear-gradient(135deg, #48bb78 0%, #38a169 100%); color: white; padding: 12px 25px; border-radius: 8px; text-decoration: none; font-weight: 500;">立即使用 →</a>
+<!-- HCATA 工具卡片 -->
+<div style="background: linear-gradient(135deg, #f0fff4 0%, #c6f6d5 100%); border-radius: 16px; padding: 30px; border: 2px solid #48bb78; box-shadow: 0 4px 20px rgba(72, 187, 120, 0.15);">
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="font-size: 32px; margin-right: 15px;">🔬</div>
+<h3 style="margin: 0; color: #2d3748; font-size: 22px;">HCATA 基因表达查询</h3>
+</div>
+
+<p style="color: #718096; margin-bottom: 20px; line-height: 1.6;">人类细胞衰老转录组图谱，查询基因在不同年龄段的表达趋势。</p>
+
+<div style="background: white; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">📊 数据来源</div>
+<div style="color: #718096; font-size: 14px;">76 项研究 · 9200 万单细胞 · 50+ 组织类型</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">📋 评估内容</div>
+<div style="color: #718096; font-size: 14px;">基因表达随年龄变化、差异表达分析、通路富集</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">👥 适用人群</div>
+<div style="color: #718096; font-size: 14px;">研究人员、临床医生、生物信息学爱好者</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">⏱️ 出结果时间</div>
+<div style="color: #718096; font-size: 14px;">实时查询</div>
+</div>
+</div>
+
+<a href="#hcata-section" style="display: inline-block; background: linear-gradient(135deg, #48bb78 0%, #38a169 100%); color: white; padding: 14px 30px; border-radius: 10px; text-decoration: none; font-weight: 600; font-size: 16px; box-shadow: 0 4px 15px rgba(72, 187, 120, 0.4); transition: all 0.3s;">立即使用 →</a>
+
 </div>
 
 </div>
