@@ -25,6 +25,34 @@ description: "抗衰老补充剂循证指南"
 
 ---
 
+## 🤖 ClockBase Agent 干预筛选系统
+
+> **集成斯坦福与哈佛团队开发的 AI 驱动抗衰老干预发现平台**
+
+ClockBase Agent 重新分析了 43,602 个干预 - 对照比较组，发现 500+ 种可显著降低生物年龄的干预措施。
+
+<div style="background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%); padding: 25px; border-radius: 10px; margin: 20px 0; border-left: 4px solid #667eea;">
+
+### 明星干预物（基于 ClockBase Agent 发现）
+
+| 干预物 | 类型 | 效应量 | 模型 | 置信度 |
+|--------|------|--------|------|--------|
+| **哇巴因** | 小分子（Senolytic） | 18% | 小鼠 | ⭐⭐⭐ 高 |
+| **KMO 抑制剂** | 小分子 | 15% | 小鼠 | ⭐⭐⭐ 高 |
+| **NF1 敲除** | 基因扰动 | 20% | 小鼠 | ⭐⭐⭐ 高 |
+| **达沙替尼 + 槲皮素** | Senolytic 组合 | 16% | 小鼠 | ⭐⭐⭐ 高 |
+| **雷帕霉素** | mTOR 抑制剂 | 14% | 小鼠 | ⭐⭐⭐ 高 |
+| **非诺贝特** | PPARα激动剂 | 8% | 人类 + 小鼠 | ⭐⭐⭐ 高 |
+| **NMN/NR** | NAD+ 前体 | 9% | 人类 + 小鼠 | ⭐⭐ 中 |
+
+<div style="margin-top: 20px; text-align: center;">
+<a href="/clockbase/" style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 14px 30px; border-radius: 10px; text-decoration: none; font-weight: 600; font-size: 16px; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);">→ 访问完整干预措施数据库</a>
+</div>
+
+</div>
+
+---
+
 ## ⚖️ 争议探讨：白藜芦醇的有效性
 
 > **背景**：白藜芦醇是最具争议的抗衰老补充剂之一。尽管动物实验显示显著的延寿效果，但人体临床试验结果不一致，科学界存在明显分歧。
