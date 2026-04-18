@@ -76,7 +76,40 @@ draft: false
 </div>
 </div>
 
-<a href="#hcata-section" style="display: inline-block; background: linear-gradient(135deg, #48bb78 0%, #38a169 100%); color: white; padding: 14px 30px; border-radius: 10px; text-decoration: none; font-weight: 600; font-size: 16px; box-shadow: 0 4px 15px rgba(72, 187, 120, 0.4); transition: all 0.3s;">立即使用 →</a>
+<a href="/toolbox/#hcata-section" style="display: inline-block; background: linear-gradient(135deg, #48bb78 0%, #38a169 100%); color: white; padding: 14px 30px; border-radius: 10px; text-decoration: none; font-weight: 600; font-size: 16px; box-shadow: 0 4px 15px rgba(72, 187, 120, 0.4); transition: all 0.3s;">立即使用 →</a>
+
+</div>
+
+<!-- 衰老基因检索工具卡片 -->
+<div style="background: linear-gradient(135deg, #fff5f5 0%, #fed7d7 100%); border-radius: 16px; padding: 30px; border: 2px solid #f56565; box-shadow: 0 4px 20px rgba(245, 101, 101, 0.15);">
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="font-size: 32px; margin-right: 15px;">🧬</div>
+<h3 style="margin: 0; color: #2d3748; font-size: 22px;">衰老基因检索系统</h3>
+</div>
+
+<p style="color: #718096; margin-bottom: 20px; line-height: 1.6;">集成 HAGR 数据库，探索人类衰老相关基因和长寿物种。</p>
+
+<div style="background: white; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">📊 数据来源</div>
+<div style="color: #718096; font-size: 14px;">GenAge · AnAge · 300+ 人类基因 · 4000+ 物种</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">📋 核心功能</div>
+<div style="color: #718096; font-size: 14px;">基因查询、长寿物种浏览器、关联网络可视化</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">👥 适用人群</div>
+<div style="color: #718096; font-size: 14px;">研究人员、临床医生、遗传学爱好者</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">⏱️ 更新频率</div>
+<div style="color: #718096; font-size: 14px;">每季度自动同步</div>
+</div>
+</div>
+
+<a href="/aging-genes/" style="display: inline-block; background: linear-gradient(135deg, #f56565 0%, #e53e3e 100%); color: white; padding: 14px 30px; border-radius: 10px; text-decoration: none; font-weight: 600; font-size: 16px; box-shadow: 0 4px 15px rgba(245, 101, 101, 0.4); transition: all 0.3s;">立即使用 →</a>
 
 </div>
 
