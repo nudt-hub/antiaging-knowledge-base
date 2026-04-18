@@ -179,6 +179,39 @@ draft: false
 
 </div>
 
+<!-- 临床试验智能追踪工具卡片 -->
+<div style="background: linear-gradient(135deg, #f0f7ff 0%, #e1effe 100%); border-radius: 16px; padding: 30px; border: 2px solid #4299e1; box-shadow: 0 4px 20px rgba(66, 153, 225, 0.15);">
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="font-size: 32px; margin-right: 15px;">🏥</div>
+<h3 style="margin: 0; color: #2d3748; font-size: 22px;">临床试验智能追踪</h3>
+</div>
+
+<p style="color: #718096; margin-bottom: 20px; line-height: 1.6;">整合 ABC 共识与全球抗衰老临床试验进展，追踪衰老生物标志物研究动态。</p>
+
+<div style="background: white; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">📊 数据来源</div>
+<div style="color: #718096; font-size: 14px;">ClinicalTrials.gov · PubMed · ABC 共识</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">📋 核心功能</div>
+<div style="color: #718096; font-size: 14px;">ABC 共识专区、临床试验追踪、X-Age 项目、邮件简报</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">👥 适用人群</div>
+<div style="color: #718096; font-size: 14px;">研究人员、临床医生、药物开发者</div>
+</div>
+<div style="margin-bottom: 15px;">
+<div style="font-weight: 600; color: #2d3748; margin-bottom: 5px;">⏱️ 更新频率</div>
+<div style="color: #718096; font-size: 14px;">每日自动监控 · 每周邮件简报</div>
+</div>
+</div>
+
+<a href="/clinical-trials/" style="display: inline-block; background: linear-gradient(135deg, #4299e1 0%, #3182ce 100%); color: white; padding: 14px 30px; border-radius: 10px; text-decoration: none; font-weight: 600; font-size: 16px; box-shadow: 0 4px 15px rgba(66, 153, 225, 0.4); transition: all 0.3s;">立即使用 →</a>
+
+</div>
+
 </div>
 
 ---
