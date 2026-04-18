@@ -1,15 +1,17 @@
-<nav>
+<nav role="navigation" aria-label="主导航">
     <a href="{{ "/" | relURL }}"{{ if .IsHome }} class="active"{{ end }}>🏠 首页</a>
-    {{ range .Site.Menus.main }}
+    {{- if .Site.Menus.main }}
+    {{- range .Site.Menus.main }}
     <a href="{{ .URL | relURL }}"{{ if eq $.Page.Title .Name }} class="active"{{ end }}>{{ .Name }}</a>
-    {{ end }}
+    {{- end }}
+    {{- end }}
     
-    {{ if .Site.Params.features.search }}
+    {{- if .Site.Params.features.search }}
     <div class="search-box">
         <input type="search" placeholder="🔍 搜索全站..." id="search-input">
         <button class="search-btn" onclick="triggerSearch()" title="搜索">🔍</button>
     </div>
-    {{ end }}
+    {{- end }}
 </nav>
 
 <script>

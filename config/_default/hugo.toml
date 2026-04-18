@@ -21,25 +21,30 @@ canonifyURLs = true
     url = "/interventions/"
     weight = 20
   [[menu.main]]
+    identifier = "toolbox"
+    name = "工具箱"
+    url = "/toolbox/"
+    weight = 25
+  [[menu.main]]
     identifier = "aging-clocks"
     name = "衰老时钟"
     url = "/aging-clocks/"
-    weight = 25
+    weight = 30
   [[menu.main]]
     identifier = "research"
     name = "研究前沿"
     url = "/research/"
-    weight = 30
+    weight = 35
   [[menu.main]]
     identifier = "recent"
     name = "近一月"
     url = "/recent/"
-    weight = 35
+    weight = 40
   [[menu.main]]
     identifier = "metabolism"
     name = "代谢网络"
     url = "/metabolism/"
-    weight = 40
+    weight = 45
   [[menu.main]]
     identifier = "about"
     name = "关于"
