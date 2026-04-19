@@ -41,7 +41,7 @@ draft: false
 
 社交媒体风格的图文卡片，快速传播核心发现。
 
-[→ 浏览研究快照库](/data/snapshots/)
+[→ 浏览研究快照库](/news/snapshots/)
 
 ### ABC 与 X-Age 追踪
 
