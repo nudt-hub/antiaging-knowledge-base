@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-04-18 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-04-20 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 Apr 18 | Simulated aquatic aging exacerbates pulmonary toxicity of graphite nanoplatelets by mechanically and chemically induced surface oxidation, enhancing oxidative potential. | Particle and fibre toxicology | [41998710](https://pubmed.ncbi.nlm.nih.gov/41998710/) | Simulated aquatic aging exacerbates pulmonary toxicity of gr... |
-| 2026 Apr 18 | Interactions between rare variants in DNA repair genes and cardiometabolic risk explain more variability in cognitive function. | GeroScience | [41998431](https://pubmed.ncbi.nlm.nih.gov/41998431/) | Interactions between rare variants in DNA repair genes and c... |
-| 2026 Apr 17 | Antiviral CD4(+) T and myeloid cell responses to influenza vaccines are attenuated in older adults. | Communications medicine | [41998201](https://pubmed.ncbi.nlm.nih.gov/41998201/) | Antiviral CD4(+) T and myeloid cell responses to influenza v... |
-| 2026 Apr 17 | Nrf1 coordinates proteasome activity and autophagy to maintain cardiac proteostasis. | Communications biology | [41998155](https://pubmed.ncbi.nlm.nih.gov/41998155/) | Nrf1 coordinates proteasome activity and autophagy to mainta... |
-| 2026 Apr 17 | Blood as the mirror and modulator of aging: mechanistic insights and rejuvenation strategies. | Experimental & molecular medicine | [41998143](https://pubmed.ncbi.nlm.nih.gov/41998143/) | Blood as the mirror and modulator of aging: mechanistic insi... |
+| 2026 May | T Cell Receptor Repertoires Across the Continuum of Vascular, Myocardial, and Age-Related Diseases. | Immunological reviews | [42001296](https://pubmed.ncbi.nlm.nih.gov/42001296/) | T Cell Receptor Repertoires Across the Continuum of Vascular... |
+| 2026 Apr 19 | Mediterranean and western diets differentially modulate cellular aging, oxidative stress, and inflammation in rats: a randomized control trial. | Nutritional neuroscience | [42001278](https://pubmed.ncbi.nlm.nih.gov/42001278/) | Mediterranean and western diets differentially modulate cell... |
+| 2026 Apr 18 | Reference values for bioelectrical impedance-derived phase angle: a cross-sectional study of 5,049 healthy individuals from Colombia. | European journal of clinical nutrition | [42000911](https://pubmed.ncbi.nlm.nih.gov/42000911/) | Reference values for bioelectrical impedance-derived phase a... |
+| 2026 Apr 18 | Aging-associated decline of phosphatidylcholine synthesis is a malleable trigger of natural mitochondrial aging. | Nature communications | [42000749](https://pubmed.ncbi.nlm.nih.gov/42000749/) | Aging-associated decline of phosphatidylcholine synthesis is... |
+| 2026 Mar 23 | 5-Hydroxytryptamine 2B receptor antagonism restores ATP and reduces tubulointerstitial fibrosis in the renal cortices of aged mice. | The Journal of pharmacology and experimental therapeutics | [42000396](https://pubmed.ncbi.nlm.nih.gov/42000396/) | 5-Hydroxytryptamine 2B receptor antagonism restores ATP and ... |
 
 ### NAD+ 与线粒体
 
@@ -33,21 +33,13 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 尿石素 A 与线粒体自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Apr 3 | A 3-N nose-to-brain urolithin a nanomotor targeting microglial mitophagy in neuroinflammation. | Biomaterials | [41980377](https://pubmed.ncbi.nlm.nih.gov/41980377/) | A 3-N nose-to-brain urolithin a nanomotor targeting microgli... |
-| 2026 | Integrated Genomic Analysis Reveals New Diagnostic Biomarkers and Immune Mechanisms for Polycystic Ovary Syndrome. | International journal of women's health | [41978723](https://pubmed.ncbi.nlm.nih.gov/41978723/) | Integrated Genomic Analysis Reveals New Diagnostic Biomarker... |
-| 2026 Apr 8 | Glucose deprivation impairs lipid tolerance related to mitophagy disorder in cardiomyocytes. | Molecular and cellular endocrinology | [41962756](https://pubmed.ncbi.nlm.nih.gov/41962756/) | Glucose deprivation impairs lipid tolerance related to mitop... |
-| 2026 Apr 1 | Trihexyl phosphate exposure disrupts mitophagy and activates mtDNA-cGAS-STING signaling to drive pyroptosis and steroidogenic impairment in Leydig cells. | Journal of hazardous materials | [41875563](https://pubmed.ncbi.nlm.nih.gov/41875563/) | Trihexyl phosphate exposure disrupts mitophagy and activates... |
-| 2026 Mar | Urolithin A From Gut Metabolite to Therapeutic Agent: Bioavailability, Mechanisms, and Translational Insights. | Journal of food science | [41866331](https://pubmed.ncbi.nlm.nih.gov/41866331/) | Urolithin A From Gut Metabolite to Therapeutic Agent: Bioava... |
+*暂无最新文献*
+
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Mar 24 | Spermidine Supplementation Reduces Genetic Damage in the Liver and Bone Marrow of Rodents. | ACS omega | [41908371](https://pubmed.ncbi.nlm.nih.gov/41908371/) | Spermidine Supplementation Reduces Genetic Damage in the Liv... |
-| 2026 Mar 29 | Pharmacological reactivation of autophagic flux by natural compounds or synthetic cell-permeable peptide prevents doxorubicin-induced cardiomyopathy. | Basic research in cardiology | [41904730](https://pubmed.ncbi.nlm.nih.gov/41904730/) | Pharmacological reactivation of autophagic flux by natural c... |
-| 2026 Mar 18 | Dietary Citrus Peel Supplementation Enhances Hepatic Energy Metabolism, Muscle 9-HODE Generation and Isoleucine Catabolism in Beef Cattle. | Metabolites | [41893350](https://pubmed.ncbi.nlm.nih.gov/41893350/) | Dietary Citrus Peel Supplementation Enhances Hepatic Energy ... |
+*暂无最新文献*
+
 
 ---
 
@@ -61,4 +53,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-04-18 | 自动生成*
+*最后更新：2026-04-20 | 自动生成*
