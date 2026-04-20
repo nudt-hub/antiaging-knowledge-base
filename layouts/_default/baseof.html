@@ -32,7 +32,20 @@
         .card:hover { transform: translateY(-4px); box-shadow: 0 8px 25px rgba(102, 126, 234, 0.2); }
         .card h3 { margin-top: 0; color: var(--text); font-size: 1.3em; }
         footer { text-align: center; padding: 30px 20px; border-top: 1px solid var(--border); color: var(--text-light); font-size: 0.9em; margin-top: 40px; }
-        @media (max-width: 768px) { body { padding: 0 10px; } header { padding: 50px 15px; } header h1 { font-size: 2em; } nav { flex-direction: column; } .card-grid { grid-template-columns: 1fr; } }
+        @media (max-width: 768px) { 
+            body { padding: 0 10px; } 
+            header { padding: 40px 15px; margin: 20px 0; } 
+            header h1 { font-size: 1.8em; margin-bottom: 15px; } 
+            header p { font-size: 1em; }
+            nav { padding: 10px 15px; margin-bottom: 20px; flex-direction: column; align-items: stretch; }
+            nav a { text-align: center; padding: 10px 12px; font-size: 13px; }
+            .card-grid { grid-template-columns: 1fr; gap: 15px; }
+            main { padding: 20px 15px; }
+            .content h1 { font-size: 1.6em; }
+            .content h2 { font-size: 1.4em; }
+            .content table { font-size: 13px; display: block; overflow-x: auto; }
+            .content th, .content td { padding: 8px; }
+        }
     </style>
 </head>
 <body>
