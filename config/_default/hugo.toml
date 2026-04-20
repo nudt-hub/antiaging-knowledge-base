@@ -12,7 +12,7 @@ canonifyURLs = true
 # 密码保护参数
 [params]
   passwordProtection = true
-  sitePassword = "1234567890"
+  sitePassword = "AntiAging2026"
 
 [menu]
   [[menu.main]]
