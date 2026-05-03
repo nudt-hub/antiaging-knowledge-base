@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-05-02 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-05-03 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 May 2 | Rising Antifungal Resistance in Candidozyma auris: Signals, Gaps, and the Path Forward. | Clinical infectious diseases : an official publication of the Infectious Diseases Society of America | [42068208](https://pubmed.ncbi.nlm.nih.gov/42068208/) | Rising Antifungal Resistance in Candidozyma auris: Signals, ... |
 | 2026 May | SIRT1 Downregulation by Advanced Glycation End Products Activates RANKL-Dependent Osteoclast Signaling and Drives Chondrocyte Senescence During Osteoarthritis Development. | Aging cell | [42067949](https://pubmed.ncbi.nlm.nih.gov/42067949/) | SIRT1 Downregulation by Advanced Glycation End Products Acti... |
 | 2026 May 1 | Zinc as a master regulator of intracellular organelle homeostasis. | Experimental & molecular medicine | [42067618](https://pubmed.ncbi.nlm.nih.gov/42067618/) | Zinc as a master regulator of intracellular organelle homeos... |
 | 2026 May 1 | Mcu regulates bone formation via mitochondrial calcium uptake and lineage allocation. | Experimental & molecular medicine | [42067615](https://pubmed.ncbi.nlm.nih.gov/42067615/) | Mcu regulates bone formation via mitochondrial calcium uptak... |
 | 2026 May 1 | DNA hypermethylation of FGFR2 drives fibrosis in the aging kidney. | Scientific reports | [42067567](https://pubmed.ncbi.nlm.nih.gov/42067567/) | DNA hypermethylation of FGFR2 drives fibrosis in the aging k... |
-| 2026 Jul 1 | Enhanced biodistribution and efficacy of nicomenthyl encapsulated in emulsions stabilized by methacrylated hyaluronic acid for the prevention and treatment of skin photoaging. | Carbohydrate polymers | [42067346](https://pubmed.ncbi.nlm.nih.gov/42067346/) | Enhanced biodistribution and efficacy of nicomenthyl encapsu... |
 
 ### NAD+ 与线粒体
 
@@ -33,21 +33,13 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ### 尿石素 A 与线粒体自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 Apr 15 | Trimethyltin chloride triggers ferroptosis in myocardial injury: mitochondria-dependent protection by luteolin. | Environment international | [42013553](https://pubmed.ncbi.nlm.nih.gov/42013553/) | Trimethyltin chloride triggers ferroptosis in myocardial inj... |
-| 2026 | SRN-901, a Novel Longevity Drug, Extends Lifespan and Healthspan by Targeting Multiple Aging Pathways. | Drug design, development and therapy | [42011226](https://pubmed.ncbi.nlm.nih.gov/42011226/) | SRN-901, a Novel Longevity Drug, Extends Lifespan and Health... |
-| 2026 Apr 3 | A 3-N nose-to-brain urolithin a nanomotor targeting microglial mitophagy in neuroinflammation. | Biomaterials | [41980377](https://pubmed.ncbi.nlm.nih.gov/41980377/) | A 3-N nose-to-brain urolithin a nanomotor targeting microgli... |
-| 2026 | Integrated Genomic Analysis Reveals New Diagnostic Biomarkers and Immune Mechanisms for Polycystic Ovary Syndrome. | International journal of women's health | [41978723](https://pubmed.ncbi.nlm.nih.gov/41978723/) | Integrated Genomic Analysis Reveals New Diagnostic Biomarker... |
-| 2026 Apr 8 | Glucose deprivation impairs lipid tolerance related to mitophagy disorder in cardiomyocytes. | Molecular and cellular endocrinology | [41962756](https://pubmed.ncbi.nlm.nih.gov/41962756/) | Glucose deprivation impairs lipid tolerance related to mitop... |
+*暂无最新文献*
+
 
 ### 亚精胺与自噬
 
-| 日期 | 标题 | 期刊 | PMID | 关键发现 |
-|------|------|------|------|---------|
-| 2026 May | Short-Term Oral Spermidine Supplementation Modifies Aspects of Neurodegenerative Disease in Flies and Mice With MPS III. | Journal of inherited metabolic disease | [42050889](https://pubmed.ncbi.nlm.nih.gov/42050889/) | Short-Term Oral Spermidine Supplementation Modifies Aspects ... |
-| 2026 Apr 25 | Dendrobium officinale polysaccharide-spermidine composite hydrogels: Tunable rheological properties and improved in vitro colonic fermentation. | International journal of biological macromolecules | [42044821](https://pubmed.ncbi.nlm.nih.gov/42044821/) | Dendrobium officinale polysaccharide-spermidine composite hy... |
-| 2026 Apr 10 | Spermidine alleviates sepsis-induced cardiomyopathy by improving mitochondrial quality and quantity via a Metallothionein 1-dependent antioxidant pathway. | Phytomedicine : international journal of phytotherapy and phytopharmacology | [42013738](https://pubmed.ncbi.nlm.nih.gov/42013738/) | Spermidine alleviates sepsis-induced cardiomyopathy by impro... |
+*暂无最新文献*
+
 
 ---
 
@@ -61,4 +53,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-05-02 | 自动生成*
+*最后更新：2026-05-03 | 自动生成*
