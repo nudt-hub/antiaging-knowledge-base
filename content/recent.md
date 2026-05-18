@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-05-17 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-05-18 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,11 +15,11 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 May 16 | Intestinal T cells in aging: implications for gut barrier integrity and inflammaging. | GeroScience | [42141269](https://pubmed.ncbi.nlm.nih.gov/42141269/) | Intestinal T cells in aging: implications for gut barrier in... |
-| 2026 May 15 | Aging promotes a RAGE-dependent increase in breast cancer metastasis. | Communications biology | [42141167](https://pubmed.ncbi.nlm.nih.gov/42141167/) | Aging promotes a RAGE-dependent increase in breast cancer me... |
-| 2026 May 16 | Eugenol from Syzygium aromaticum enhances longevity and proteostasis in aged yeast. | Biogerontology | [42141132](https://pubmed.ncbi.nlm.nih.gov/42141132/) | Eugenol from Syzygium aromaticum enhances longevity and prot... |
-| 2026 May 15 | Proteomic signatures of the APOE ε4 and APOE ε2 genetic variants and Alzheimer's disease. | Nature aging | [42141098](https://pubmed.ncbi.nlm.nih.gov/42141098/) | Proteomic signatures of the APOE ε4 and APOE ε2 genetic vari... |
-| 2026 May 15 | Network clustering algorithms and preprocessing pipelines for robust cell type identification in single-cell RNA sequencing data. | Scientific reports | [42141063](https://pubmed.ncbi.nlm.nih.gov/42141063/) | Network clustering algorithms and preprocessing pipelines fo... |
+| 2026 May 14 | Disturbed glucose metabolism and oxidative stress through PI3K/AKT signaling pathway in HIV-1 TAT activated retinal Müller glia. | Journal of neuroimmunology | [42143492](https://pubmed.ncbi.nlm.nih.gov/42143492/) | Disturbed glucose metabolism and oxidative stress through PI... |
+| 2026 May 16 | Social isolation of aged mice drives dramatic release of inflammatory lipoxygenase-derived oxylipins. | npj aging | [42143067](https://pubmed.ncbi.nlm.nih.gov/42143067/) | Social isolation of aged mice drives dramatic release of inf... |
+| 2026 May 15 | The interstitial collagenases MMP13 and MMP14 are dispensable for the early onset of skin morphogenesis, but modulate endochondral ossification. | The American journal of pathology | [42142773](https://pubmed.ncbi.nlm.nih.gov/42142773/) | The interstitial collagenases MMP13 and MMP14 are dispensabl... |
+| 2026 May 15 | Circadian Rhythms as Orchestrators of Breast Cancer Metastasis: From Molecular Mechanisms to Chronotherapeutic Interventions. | Cancer letters | [42142702](https://pubmed.ncbi.nlm.nih.gov/42142702/) | Circadian Rhythms as Orchestrators of Breast Cancer Metastas... |
+| 2026 May 15 | Lrp10 insufficiency upregulates mRNA and protein of neurotoxic α-synuclein and causes degeneration of substantia nigra dopaminergic neurons in heterozygous or homozygous Lrp10 knockout mice. | Neurochemistry international | [42142532](https://pubmed.ncbi.nlm.nih.gov/42142532/) | Lrp10 insufficiency upregulates mRNA and protein of neurotox... |
 
 ### NAD+ 与线粒体
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-05-17 | 自动生成*
+*最后更新：2026-05-18 | 自动生成*
