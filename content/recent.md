@@ -5,7 +5,7 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 # 近一个月研究进展
 
-> **更新时间**：2026-05-18 | **数据来源**：PubMed 自动检索
+> **更新时间**：2026-05-19 | **数据来源**：PubMed 自动检索
 
 ---
 
@@ -15,21 +15,21 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
-| 2026 May 14 | Disturbed glucose metabolism and oxidative stress through PI3K/AKT signaling pathway in HIV-1 TAT activated retinal Müller glia. | Journal of neuroimmunology | [42143492](https://pubmed.ncbi.nlm.nih.gov/42143492/) | Disturbed glucose metabolism and oxidative stress through PI... |
-| 2026 May 16 | Social isolation of aged mice drives dramatic release of inflammatory lipoxygenase-derived oxylipins. | npj aging | [42143067](https://pubmed.ncbi.nlm.nih.gov/42143067/) | Social isolation of aged mice drives dramatic release of inf... |
-| 2026 May 15 | The interstitial collagenases MMP13 and MMP14 are dispensable for the early onset of skin morphogenesis, but modulate endochondral ossification. | The American journal of pathology | [42142773](https://pubmed.ncbi.nlm.nih.gov/42142773/) | The interstitial collagenases MMP13 and MMP14 are dispensabl... |
-| 2026 May 15 | Circadian Rhythms as Orchestrators of Breast Cancer Metastasis: From Molecular Mechanisms to Chronotherapeutic Interventions. | Cancer letters | [42142702](https://pubmed.ncbi.nlm.nih.gov/42142702/) | Circadian Rhythms as Orchestrators of Breast Cancer Metastas... |
-| 2026 May 15 | Lrp10 insufficiency upregulates mRNA and protein of neurotoxic α-synuclein and causes degeneration of substantia nigra dopaminergic neurons in heterozygous or homozygous Lrp10 knockout mice. | Neurochemistry international | [42142532](https://pubmed.ncbi.nlm.nih.gov/42142532/) | Lrp10 insufficiency upregulates mRNA and protein of neurotox... |
+| 2026 May 15 | Blue period - features of senescence 30 years after beta-galactosidase. | Aging | [42150106](https://pubmed.ncbi.nlm.nih.gov/42150106/) | Blue period - features of senescence 30 years after beta-gal... |
+| 2026 | [Molecular genetic factors of accelerated vascular aging.]. | Advances in gerontology = Uspekhi gerontologii | [42150027](https://pubmed.ncbi.nlm.nih.gov/42150027/) | [Molecular genetic factors of accelerated vascular aging.]. |
+| 2026 | [The effect of geroprotectors on life expectancy: Mechanisms of action and clinical potential.]. | Advances in gerontology = Uspekhi gerontologii | [42150021](https://pubmed.ncbi.nlm.nih.gov/42150021/) | [The effect of geroprotectors on life expectancy: Mechanisms... |
+| 2026 May 18 | BudFinder: A Masked Auto-Encoder vision transformer framework for yeast budding detection and lifespan quantification. | PLoS computational biology | [42149904](https://pubmed.ncbi.nlm.nih.gov/42149904/) | BudFinder: A Masked Auto-Encoder vision transformer framewor... |
+| 2026 May 31 | LAPTM5 Promotes Age-Related Renal Fibrosis via USP10/PTEN-Mediated Autophagy Inhibition. | FASEB journal : official publication of the Federation of American Societies for Experimental Biology | [42149696](https://pubmed.ncbi.nlm.nih.gov/42149696/) | LAPTM5 Promotes Age-Related Renal Fibrosis via USP10/PTEN-Me... |
 
 ### NAD+ 与线粒体
 
 | 日期 | 标题 | 期刊 | PMID | 关键发现 |
 |------|------|------|------|---------|
+| 2026 | Effect of mitochondrial dysfunction on scar formation after spinal cord injury. | Frontiers in neurology | [42147841](https://pubmed.ncbi.nlm.nih.gov/42147841/) | Effect of mitochondrial dysfunction on scar formation after ... |
+| 2026 May 17 | A self-powered chloroplast-driven nanophotosystem for treating skin photoaging through rejuvenating mitochondria and revitalizing senescent fibroblasts. | Journal of nanobiotechnology | [42144642](https://pubmed.ncbi.nlm.nih.gov/42144642/) | A self-powered chloroplast-driven nanophotosystem for treati... |
 | 2026 May 15 | Effect of Sevelamer and B. longum on Insulin Sensitivity in Participants With Obesity: A Randomized Clinical Trial. | Obesity (Silver Spring, Md.) | [42141362](https://pubmed.ncbi.nlm.nih.gov/42141362/) | Effect of Sevelamer and B. longum on Insulin Sensitivity in ... |
 | 2026 May 15 | The role of ATP synthase subunit e (ATP5I) in mediating the metabolic and antiproliferative effects of metformin in cancer cells. | eLife | [42138716](https://pubmed.ncbi.nlm.nih.gov/42138716/) | The role of ATP synthase subunit e (ATP5I) in mediating the ... |
 | 2026 May 14 | A versatile nanobody platform for live and super-resolution imaging of synaptic vesicle dynamics and plasticity in rodent and human neurons. | Journal of nanobiotechnology | [42135832](https://pubmed.ncbi.nlm.nih.gov/42135832/) | A versatile nanobody platform for live and super-resolution ... |
-| 2026 May 14 | Reduced ULK1 links impaired autophagy and mitophagy to Alzheimer's disease pathology. | Nature aging | [42135576](https://pubmed.ncbi.nlm.nih.gov/42135576/) | Reduced ULK1 links impaired autophagy and mitophagy to Alzhe... |
-| 2026 May 14 | Whole-blood NAD(+) levels do not reflect healthy ageing. | Nature metabolism | [42135540](https://pubmed.ncbi.nlm.nih.gov/42135540/) | Whole-blood NAD(+) levels do not reflect healthy ageing. |
 
 ### 尿石素 A 与线粒体自噬
 
@@ -61,4 +61,4 @@ description: "按研究主题分类展示最近一个月的抗衰老研究进展
 
 ---
 
-*最后更新：2026-05-18 | 自动生成*
+*最后更新：2026-05-19 | 自动生成*
